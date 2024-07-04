@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+    margin-bottom:50px;
+    font-size:50px;
+}
+.defineClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#whatToDo{
+    width: 150px;
+    height: 20px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+#submit{
+    width:100px;
+    height:20px;
+}
+.delete-button{
+    margin-left:5px;
+}
+.complete-button{
+    margin-left:10px;
+}
+.highlight{
+    background-color: yellow;
+    text-decoration-line:line-through;
+}
